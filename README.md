@@ -1,2 +1,2 @@
 # Learnings
-This is a Learning Git Repo
+This is a Learning Git Repo.
